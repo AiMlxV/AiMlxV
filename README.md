@@ -23,4 +23,5 @@ Remember: No question is too basic - we're all here to learn! 🌱
 
 ## 🛠 Skills & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=ae,angular,arduino,bootstrap,c,cs,cpp,clion,css,discord,figma,firebase,flutter,git,github,githubactions,go,html,instagram,js,ts,linkedin,linux,pycharm,py,react,rider,tailwind,vscode,windows&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,py,go,js,ts,html,css,bootstrap,tailwind,react,angular,flutter,firebase,figma,ae,linux,windows,git,github,githubactions,vscode,pycharm,clion,rider,arduino,discord,instagram,linkedin&theme=dark)](https://skillicons.dev)
+
