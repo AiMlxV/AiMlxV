@@ -25,3 +25,4 @@ Remember: No question is too basic - we're all here to learn! 🌱
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,py,go,js,ts,html,css,bootstrap,tailwind,react,angular,flutter,firebase,figma,ae,linux,windows,git,github,githubactions,vscode,pycharm,clion,rider,arduino,discord,instagram,linkedin&theme=dark)](https://skillicons.dev)
 
+[![Stat Card](https://github-readme-stats.vercel.app/api?username=AiMlxV\&show_icons=true\&theme=slateorange\&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
