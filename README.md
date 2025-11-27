@@ -3,7 +3,7 @@
 🌟 About Me:
 - Tech enthusiast & school club consultant who loves helping others
 - Sometimes too busy helping others to remember self-care 😄
-- Learning: ML/AI, Web Dev, 3D Modeling, Robotics 🚀
+- Learning: DevOps, ML/AI, Infra, 3D Modeling, Robotics 🚀
 
 💬 Ask me about:
 - Robotics & Microcontrollers
@@ -16,8 +16,9 @@
 - Friends who don't mind my learning curve 😊
 
 📫 Find me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/AiMlTanawat)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat)](https://www.linkedin.com/in/AiMlTanawat)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:41025@chs.ac.th)
+[![Bento](https://img.shields.io/badge/Bento-768CFF?style=flat&logo=bento&logoColor=white)](mailto:41025@chs.ac.th)
 
 Remember: No question is too basic - we're all here to learn! 🌱
 
