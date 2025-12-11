@@ -7,7 +7,7 @@
 
 💬 Ask me about:
 - Robotics & Microcontrollers
-- School tech club experiences
+- Linux Troubleshooting & CI/CD Deployment
 - New technologies
 
 🤝 Let's Connect & Learn Together!
