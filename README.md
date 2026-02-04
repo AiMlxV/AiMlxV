@@ -20,7 +20,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:41025@chs.ac.th)
 [![Bento](https://img.shields.io/badge/Bento-768CFF?style=flat&logo=bento&logoColor=white)](mailto:41025@chs.ac.th)
 
-Remember: No question is too basic - we're all here to learn! 🌱
+![GHGIF](game.gif)
 
 ## 🛠 Skills & Tools
 
