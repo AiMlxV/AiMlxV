@@ -27,11 +27,11 @@
 - I'm still learning, so I might break things before I fix them.
 - Always down to debug daily life problems... or just watch Anime and play games.
 
-> **My Setup RN (Low Budget Edition):**
-> 5 years old Lenovo laptop that isn't broken yet + WSL2 (Ubuntu)
-> * **CPU:** Ryzen 5 4600H (Heating unit)
-> * **GPU:** GTX 1650 (It tries its best)
-> * **RAM:** 16GB of money stick
+> **My Setup RN (Budget Edition):**
+> Second-hand laptop that isn't broken yet + WSL2 (Ubuntu)
+> * **CPU:** Ryzen 7 5800H (Heating unit)
+> * **GPU:** RTX 3050 4GB ver (It tries its best)
+> * **RAM:** 24GB of money stick
 
 📫 **Find me:**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/AiMlTanawat)
