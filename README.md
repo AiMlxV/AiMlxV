@@ -1,6 +1,6 @@
 ### 👋 Hello, World! Watashi no namae wa NonguAruto.
 
-**1st Year CEDT Student @ Chula ⚙️ | Part-time Sysadmin (of my own room)**
+**1st->2nd Year CEDT Student @ Chula ⚙️ | Part-time Sysadmin (of my own room)**
 
 <table>
   <tr>
